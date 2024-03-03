@@ -26,9 +26,9 @@
 # Login Form
 - "I've created a secure login form for my e-commerce platform using ReactJS and Spring Boot. The form validates user details against the MySQL database, allowing only accurate credentials to navigate to the home page."
 ![login](https://github.com/bhaskar-nayak/applestore/blob/master/Screenshot%20(20).png)
-##Backend MysqlWorkbench
+# Backend MysqlWorkbench
 - After users enter their details in the registration form on my e-commerce website, the information is securely stored in the MySQL database. If the entered credentials are correct, users can successfully log in and access the home page; otherwise, an error message is displayed.
-- ![home]()
+- ![home](https://github.com/bhaskar-nayak/applestore/blob/master/Screenshot%20(22).png)
 # Home page
 - 
 "I've enhanced the homepage of my e-commerce application by incorporating static images and implementing a dynamic carousel using a package. Utilizing the card component within the carousel, I efficiently displayed an array of objects containing image names, descriptions, ratings, and prices, utilizing the map method for seamless iteration."
