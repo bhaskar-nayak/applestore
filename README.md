@@ -30,4 +30,4 @@
 - 
 "I've enhanced the homepage of my e-commerce application by incorporating static images and implementing a dynamic carousel using a package. Utilizing the card component within the carousel, I efficiently displayed an array of objects containing image names, descriptions, ratings, and prices, utilizing the map method for seamless iteration."
  - carousel implemented
-![home](C:\Users\bhask\Pictures\Screenshots\Screenshot (14).png)
+![home](https://github.com/bhaskar-nayak/applestore/blob/master/Screenshot%20(14)%20-%20Copy.png)
