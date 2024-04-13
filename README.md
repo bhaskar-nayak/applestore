@@ -1,6 +1,8 @@
 # full-stack e-commerce web application
 
-"I have successfully developed a robust full-stack e-commerce web application utilizing ReactJS for the frontend and Spring Boot for the backend. The application features seamless user management, efficient project management, and a comprehensive cart implementation. This project showcases my proficiency in creating scalable and user-friendly solutions for online retail experiences."
+"I have successfully developed a robust full-stack e-commerce web application utilizing ReactJS for the frontend and Spring Boot for the backend. The application features seamless user management, efficient project management. This project showcases my proficiency in creating scalable and user-friendly solutions for online retail experiences."
+# Deploy site on netlify
+Project Url :https://iphoneimagine.netlify.app
 ## Frontend(ReactJs)
 
 - Html
